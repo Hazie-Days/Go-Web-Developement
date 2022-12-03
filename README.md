@@ -1,2 +1,2 @@
 # Go-Web-Developement
-Challenges  for GoTemplates
+Relavant files are related to WEB-DEVELOPMENT using GOLANG for the backend servers
